@@ -1,4 +1,6 @@
-### Hi there! I´m programmer student :-)
+### Hi there! 
+Tengo 18 años y actualmente soy estudiante de programación;
+Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
 
 <!--
 **xLeaan/xLeaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
