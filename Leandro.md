@@ -1,5 +1,5 @@
 ### Hi there! 
-Mi nombre es Leandro tengo 18 años, soy de Colombia y actualmente soy estudiante de programación;
+Mi nombre es Leandro tengo 19 años, soy de Colombia y actualmente soy estudiante de programación;
 Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
 
 
