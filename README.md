@@ -1,5 +1,5 @@
 Hi there 👋
-Mi nombre es Leandro tengo 19 años, soy de Colombia y actualmente soy estudiante de programación; Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
+Mi nombre es Leandro tengo 20 años, soy de Colombia, técnico en programación de Software; Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
 <!--
 **xLeaan/xLeaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
