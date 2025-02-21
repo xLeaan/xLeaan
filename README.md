@@ -19,4 +19,4 @@ Técnico en programación de Software con 21 años ubicado en Medellín, Colombi
 ## Idiomas:
 -Ingles **B2**
 
-[Portafolio](https://portafolio-xleaans-projects.vercel.app)
+[Click aquí para ver portafolio!](https://portafolio-xleaans-projects.vercel.app)
