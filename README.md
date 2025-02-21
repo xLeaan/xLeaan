@@ -1,16 +1,23 @@
-Hi there 👋
-Mi nombre es Leandro tengo 21 años, soy de Colombia, técnico en programación de Software; Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
-<!--
-**xLeaan/xLeaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 <br>
+Técnico en programación de Software con 21 años ubicado en Medellín, Colombia; Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
 
-Here are some ideas to get you started:
+## Tecnologías:
+-JavaScript
+-TypeScript
+-ReactJS <br>
+-JSX
+-PHP
+-MySQL <br>
+-Supabase
+-Kotlin
+-React Native <br>
+-Python
+-HTML5
+-CSS <br>
+-SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Idiomas:
+-Ingles **B2**
+
+[Portafolio]("https://portafolio-xleaans-projects.vercel.app")
+[Linkedln]
