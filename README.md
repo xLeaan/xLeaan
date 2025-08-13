@@ -15,6 +15,8 @@ Técnico en programación de Software con 21 años ubicado en Medellín, Colombi
 -HTML5
 -CSS <br>
 -SASS
+-Angular
+-Laravel 
 
 ## Idiomas:
 -Ingles **B2**
