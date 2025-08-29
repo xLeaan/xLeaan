@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-Técnico en programación de Software con 21 años ubicado en Medellín, Colombia; Me gusta aprender cosas nuevas acerca de la programación y experimentar cosas nuevas.
+Técnico en programación de Software con 21 años ubicado en Medellín, Colombia; Apasionado a la programaciòn, me gusta experimentar cosas nuevas y tener retos que me permitan aumentar mis skills en cualquier lenguaje permitiendome aplicarlo para objeto de ocio, busco soluciones mediante còdigo y facilitar procesos :D.
 
 ## Tecnologías:
 -JavaScript
